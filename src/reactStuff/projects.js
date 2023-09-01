@@ -1,7 +1,7 @@
 const projects = [
   {
     title: "My project",
-    description: "Another project",
+    description: "10/10",
     image: "https://source.unsplash.com/random/1",
   },
   {
@@ -10,7 +10,7 @@ const projects = [
     image: "https://source.unsplash.com/random/42",
   },
   {
-    title: "Project 3",
+    title: "Best project",
     description: "My newest project v2",
     image: "https://source.unsplash.com/random/43",
   },

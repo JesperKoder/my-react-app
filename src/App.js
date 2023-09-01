@@ -11,14 +11,14 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>best page</p>
+          <h1>My projects</h1>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com/JesperKoder"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Link to github
           </a>
         </header>
         <Layout>
